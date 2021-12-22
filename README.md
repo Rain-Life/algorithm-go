@@ -1,6 +1,8 @@
 
 > Brushing questions is not the goal, but the mastering method is
 
+If you think it helps you, give me star. Thank you
+
 ## Classification: Binary Tree
 
 | LeetCode Num | Title | Type | Code | Detail |
