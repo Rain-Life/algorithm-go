@@ -18,15 +18,15 @@ If you think it helps you, give me star. Thank you
 | 99 | [Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/) | Medium | BST | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/99.go) | answer |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | Medium | BST | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/230.go) | answer |
 | 285 | [Inorder's Successor In BST](https://leetcode-cn.com/problems/P5rCT8/) | Medium | BST | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/285.go) | answer |
-| 114 | [Flatten Binary Tree to linked list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | Medium | Iteration | [code]() | answer |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | Medium | BFS | [code]() | answer |
-| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | Medium | BFS | [code]() | answer |
-| 156 | [Up-Down Flip Binary Tree](https://blog.csdn.net/xiaobailaji/article/details/118762339) | Medium | Iteration | [code]() | answer |
-| 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | Medium | BFS | [code]() | answer |
-| 255 | [Through Preorder Validate BST](https://www.jianshu.com/p/afe53c950a31) | Medium | Stack+Iteration | [code]() | answer |
-| 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | Easy | Flash Back | [code]() | answer |
-| 270 | [Closest Value In BST](https://www.codeleading.com/article/66502772403/) | Easy | Binary Search | [code]() | answer |
-| 297 | [Serialize And Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | Hard | Recursion | [code]() | answer |
+| 114 | [Flatten Binary Tree to linked list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | Medium | Iteration | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/114.go) | answer |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | Medium | BFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/116.go) | answer |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | Medium | BFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/117.go) | answer |
+| 156 | [Up-Down Flip Binary Tree](https://blog.csdn.net/xiaobailaji/article/details/118762339) | Medium | Iteration | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/156.go) | answer |
+| 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | Medium | BFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/199.go) | answer |
+| 255 | [Through Preorder Validate BST](https://www.jianshu.com/p/afe53c950a31) | Medium | Stack+Iteration | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/255.go) | answer |
+| 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | Easy | Flash Back | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/257.go) | answer |
+| 270 | [Closest Value In BST](https://www.codeleading.com/article/66502772403/) | Easy | Binary Search | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/270.go) | answer |
+| 297 | [Serialize And Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | Hard | Recursion | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/297.go) | answer |
 | 337 | [House-Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | Medium | Dynamic Programming | [code]() | answer |
 |  |  | []() |  | [code]() | answer |
 |  |  | []() |  | [code]() | answer |
