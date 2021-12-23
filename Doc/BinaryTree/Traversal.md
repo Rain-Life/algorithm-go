@@ -10,7 +10,7 @@
 
 以下图的二叉树为例
 
-![2.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/22b82dcc1aed47c080bf09dc2cf51a76~tplv-k3u1fbpfcp-watermark.image?)
+![image](https://github.com/Rain-Life/algorithm-go/blob/master/photos/BinaryTree/Traversal/1.png)
 
 
 树基础结构代码
@@ -111,20 +111,20 @@ func postorderTraversal(root *TreeNode) []int {
 -   节点B，B入栈，左子树不为空，遍历左子树
 -   节点D，D入栈，左子树为空，取出栈顶元素D，并打印
 
-![3.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0786783eac364fe8956d1e17b284f7d8~tplv-k3u1fbpfcp-watermark.image?)
+![image](https://github.com/Rain-Life/algorithm-go/blob/master/photos/BinaryTree/Traversal/2.png)
 
 -   遍历D的右子树，发现右子树为空，则弹出栈顶元素B，并打印
 -   遍历B的右子树F，F入栈，左子树不为空，遍历左子树
 -   节点E入栈，发现E没有左右子树，弹出栈顶元素F，并访问
 
-![4.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/26a8247c51254e62b7d866d46d2e9556~tplv-k3u1fbpfcp-watermark.image?)
+![image](https://github.com/Rain-Life/algorithm-go/blob/master/photos/BinaryTree/Traversal/3.png)
 
 -   F没有右子树，弹出栈顶元素A，并访问
 -   遍历A的右子树，所以C入栈
 -   C有左子树，遍历C的左子树
 -   ...(同上)
 
-![5.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c785a9e02f034ad5a3685c67332945f7~tplv-k3u1fbpfcp-watermark.image?)
+![image](https://github.com/Rain-Life/algorithm-go/blob/master/photos/BinaryTree/Traversal/4.png)
 
 **代码实现：**
 
@@ -218,7 +218,7 @@ func postorderTraversal1(root *TreeNode) []int {
 1.  将该元素的左右子节点依次放入队列
 1.  重复2、3，直到队列为空
 
-![6.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bf06125c1c0c4e0eb30422b4fdebf328~tplv-k3u1fbpfcp-watermark.image?)
+![image](https://github.com/Rain-Life/algorithm-go/blob/master/photos/BinaryTree/Traversal/5.png)
 
 ### 代码实现
 
