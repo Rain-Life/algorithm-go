@@ -3,6 +3,13 @@
 
 If you think it helps you, give me star. Thank you
 
+
+The following contains two part:
+* LeetCode(Classification solve questions to summarize method)
+* High frequency interview questions(Efficient prepare interview)
+
+# LeetCode
+
 ## Classification: Binary Tree
 
 | LeetCode Num | Title | Difficulty | Type | Code | Detail |
@@ -54,3 +61,62 @@ If you think it helps you, give me star. Thank you
 | 牛客网 | [The Same Subtree](https://www.nowcoder.com/practice/4eaccec5ee8f4fe8a4309463b807a542?tpId=117&&tqId=37821&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) | Medium | Recursion | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/same-subtree.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/sameSubTree.md) |
 |  |  |  |  |  |  |
 
+
+## Classification: DFS&BFS
+| LeetCode Num | Title | Difficulty | Type | Code | Detail |
+| --- | --- | --- | --- | --- | --- |
+| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | Easy | BFS&DFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/101.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/101.md) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | Medium | BFS&DFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/102.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/102.md) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | BFS&DFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/103.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/103.md) |
+| 107 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | Medium | BFS&DFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/107.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/107.md) |
+| 111 | [Minimum Depth Of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | Easy | BFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/111.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/111.md) |
+| 126 | [word ladder II](https://leetcode-cn.com/problems/word-ladder-ii/) | Hard | BFS | code | answer |
+| 127 | [word ladder](https://leetcode-cn.com/problems/word-ladder/) | Hard | BFS | code | answer |
+| 130 | [surrounded regions](https://leetcode-cn.com/problems/surrounded-regions/) | Medium | BFS&DFS | code | answer |
+| 133 | [clone graph](https://leetcode-cn.com/problems/clone-graph/) | Medium | BFS+HashMap | code | answer |
+| 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | Medium | BFS | [code](https://github.com/Rain-Life/algorithm-go/blob/master/BinaryTree/199.go) | [answer](https://github.com/Rain-Life/algorithm-go/blob/master/Doc/BinaryTree/199.md) |
+| 200 | [number of islands](https://leetcode-cn.com/problems/number-of-islands/) | Medium | BFS&DFS | code | answer |
+| 261 | [Graph Valid Tree](https://www.cnblogs.com/grandyang/p/5257919.html) | Medium | BFS | code | answer |
+| 279 | [perfect squares](https://leetcode-cn.com/problems/perfect-squares/) | Medium | BFS | code | answer |
+| 286 | [Walls And Gates](https://github.com/grandyang/leetcode/issues/286) | Medium | BFS | code | answer |
+| 301 | [Remove invalid parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | Hard | BFS | code | answer |
+| 310 | [minimum height trees](https://leetcode-cn.com/problems/minimum-height-trees/) | Medium | BFS | code | answer |
+| 314 | [Binary Tree Vertical Order Traversal](https://github.com/grandyang/leetcode/issues/314) | Medium | BFS | code | answer |
+| 317 | [Shortest Distance From All Buildings](https://github.com/grandyang/leetcode/issues/317) | Hard | BFS | code | answer |
+| 323 | [Number Of Connected Components In An Undirected Graph](https://github.com/grandyang/leetcode/issues/323) | Medium | BFS | code | answer |
+|  |  |  |  |  |  |
+
+
+# High Frequency Interview Questions
+| LeetCode Num | Title | Difficulty | Type | Code | Detail |
+| --- | --- | --- | --- | --- | --- |
+| 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | Easy | Linked List | [code]() | [answer]() |
+| - | [Summary Sorted Algorithm]() | Medium | Sorted | [code]() | [answer]() |
+| - | [Design LRU]() | Hard | HashTable | [code]() | [answer]() |
+| - | [The Minimum K numbers](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |  |  | [code]() | [answer]() |
+| 1985 | [Find The Kth Largest Integer In The Array](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array/)| Medium | Sorted | [code]() | [answer]() |
+| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | Easy | Array | [code]() | [answer]() |
+| 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | Easy | Recursion | [code]() | [answer]() |
+| 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [code]() | [answer]() |
+| - | [Use Two Stack Implement Queue](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | Easy | Stack | [code]() | [answer]() |
+| 25 | [Reverse Nodes In K Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | Hard | Linked List | [code]() | [answer]() |
+| 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | Easy | Dynamic Programming | [code]() | [answer]() |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | Medium | String | [code]() | [answer]() |
+| - | [Is a Ring In Linked List](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=117&&tqId=37714&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) | Easy | Linked List | [code]() | [answer]() |
+| 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | Easy | Array | [code]() | [answer]() |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Medium | Linked List | [code]() | [answer]() |
+| 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | Easy | Stack | [code]() | [answer]() |
+| 19 | [Remove Nth Node From End Of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List | [code]() | [answer]() |
+| - | [Max Number Sum](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) | Medium | String | [code]() | [answer]() |
+| 69 | [Sqrtx](https://leetcode-cn.com/problems/sqrtx/) | Easy | Binary Search | [code]() | [answer]() |
+| 160 | [Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | Easy | Linked List | [code]() | [answer]() |
+| 445 | [Two Sum II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | Medium | Linked List | [code]() | [answer]() |
+| 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | Easy | String | [code]() | [answer]() |
+| 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | Medium | Array | [code]() | [answer]() |
+| 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | Easy | Recursion | [code]() | [answer]() |
+| 680 | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | Easy | String | [code]() | [answer]() |
+| 148 | [Sort List](https://leetcode-cn.com/problems/sort-list/) | Medium | Linked List | [code]() | [answer]() |
+| 15 | [Three Sum](https://leetcode-cn.com/problems/3sum/) | Medium | Sort | [code]() | [answer]() |
+| 23 | [Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | Hard | Linked List | [code]() | [answer]() |
+| - | [Expression Evaluation](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) | Medium | Stack | [code]() | [answer]() |
+|  |  |  |  |  |  |
